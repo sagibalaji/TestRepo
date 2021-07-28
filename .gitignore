@@ -3,3 +3,11 @@
 ################################################################################
 
 /SampleProj/SampleConsole/bin/Debug/SampleConsole.exe
+/SampleProj/SampleConsole/bin/Debug
+/SampleProj/SampleConsole/obj/Debug
+/SampleProj/SampleProj/bin
+/SampleProj/SampleProj/obj/Debug/SampleProj.csproj.FileListAbsolute.txt
+/SampleProj/SampleProj/obj/Debug/SampleProj.csproj.CoreCompileInputs.cache
+/SampleProj/SampleProj/obj/Debug/SampleProj.csproj.CopyComplete
+/SampleProj/SampleProj/obj/Debug/SampleProj.dll
+/SampleProj/SampleProj/obj/Debug/SampleProj.pdb
